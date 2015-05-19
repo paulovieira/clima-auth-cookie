@@ -1,0 +1,13 @@
+{
+  "name": "clima-auth-cookie",
+  "version": "0.0.1",
+  "description": "...",
+  "license": "BSD",
+  "dependencies": {
+    "hapi-auth-cookie": "2.x.x"
+  },
+  "main": "lib/index.js",
+  "devDependencies": {
+    "chalk": "^1.0.0"
+  }
+}
